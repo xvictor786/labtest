@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d143e0fa-9311-42fe-a906-b50fe15f2b3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cordova-sample-app" />
+  </component>
+  <component name="ProjectId" id="1ugqYYCDOMxHpI7E7ek5wUyhmHy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/cordova-sample-app" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d143e0fa-9311-42fe-a906-b50fe15f2b3a" name="Default Changelist" comment="" />
+      <created>1625097627543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625097627543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="110" width="1550" height="780" key="AVDManager" timestamp="1625107611538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="110" width="1550" height="780" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1625107611538" />
+    <state x="655" y="255" key="FileChooserDialogImpl" timestamp="1625101316227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="255" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1625101316227" />
+  </component>
+</project>
